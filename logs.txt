@@ -1,0 +1,232 @@
+[Thu Nov 10 21:54:03 2022]Accepted new connection from: 127.0.0.1:47448 username: dvir 
+[Thu Nov 10 21:54:08 2022]Accepted new connection from: 127.0.0.1:47468 username: davi 
+[Thu Nov 10 21:54:11 2022]Received message from davi : ssuuuuuuuuuup 
+[Thu Nov 10 21:54:17 2022]Received message from dvir : any body home? 
+[Thu Nov 10 21:54:19 2022]Received message from davi : adsasdasd 
+[Thu Nov 10 21:54:20 2022]Received message from davi : dasd 
+[Thu Nov 10 21:54:20 2022]Received message from davi : asd 
+[Thu Nov 10 21:54:20 2022]Received message from davi : as 
+[Thu Nov 10 21:54:20 2022]Received message from davi : d 
+[Thu Nov 10 21:54:20 2022]Received message from davi : as 
+[Thu Nov 10 21:54:21 2022]Received message from davi : d 
+[Thu Nov 10 21:54:21 2022]Received message from davi : asd 
+[Thu Nov 10 21:54:21 2022]Received message from davi : as 
+[Thu Nov 10 21:54:21 2022]Received message from davi : d 
+[Thu Nov 10 21:54:21 2022]Received message from davi : as 
+[Thu Nov 10 21:54:21 2022]Received message from davi : d 
+[Thu Nov 10 21:54:22 2022]Received message from dvir : asdasd 
+[Thu Nov 10 21:54:22 2022]Received message from dvir : asd 
+[Thu Nov 10 21:54:23 2022]Received message from dvir : asd 
+[Thu Nov 10 21:54:23 2022]Received message from dvir :  
+[Thu Nov 10 21:54:23 2022]Received message from dvir : sad 
+[Thu Nov 10 21:54:23 2022]Received message from dvir : sda 
+[Fri Nov 11 13:47:44 2022]Accepted new connection from: 127.0.0.1:60346 username: dvir 
+[Fri Nov 11 13:47:48 2022]Accepted new connection from: 127.0.0.1:55736 username: dani 
+[Fri Nov 11 13:47:51 2022]Accepted new connection from: 127.0.0.1:55756 username: dana 
+[Fri Nov 11 13:48:34 2022]Received message from dani : asdasdasd 
+[Fri Nov 11 13:48:38 2022]Received message from dana : asdasdsad 
+[Fri Nov 11 13:48:40 2022]Received message from dvir : dasdasdasd 
+[Fri Nov 11 13:48:41 2022]Received message from dana : adsdasd 
+[Fri Nov 11 13:48:42 2022]Received message from dani : dasdasdasd 
+[Fri Nov 11 13:48:44 2022]Received message from dana : sadsaasdads 
+[Fri Nov 11 13:48:44 2022]Received message from dvir : asdd 
+[Fri Nov 11 13:48:45 2022]Received message from dvir : asd 
+[Fri Nov 11 13:48:45 2022]Received message from dvir : asd 
+[Fri Nov 11 13:48:46 2022]Received message from dana : dsadas 
+[Fri Nov 11 13:48:47 2022]Received message from dani : dsadsaddasdasd 
+[Fri Nov 11 13:48:48 2022]Received message from dana : asdasdasdasasd 
+[Fri Nov 11 13:48:49 2022]Received message from dana : sad 
+[Fri Nov 11 13:48:49 2022]Received message from dana : asdasdasd 
+[Fri Nov 11 13:48:50 2022]Received message from dana : as 
+[Fri Nov 11 13:48:50 2022]Received message from dana : d 
+[Fri Nov 11 13:48:51 2022]Received message from dana : assadsad 
+[Fri Nov 11 13:48:52 2022]Received message from dvir : sadasd 
+[Fri Nov 11 13:48:53 2022]Received message from dvir : dsadasdsa 
+[Fri Nov 11 13:48:53 2022]Received message from dvir : d 
+[Fri Nov 11 13:48:53 2022]Received message from dvir : asd 
+[Fri Nov 11 13:48:53 2022]Received message from dvir :  
+[Fri Nov 11 13:48:54 2022]Received message from dvir : sa 
+[Fri Nov 11 13:48:54 2022]Received message from dvir : d 
+[Fri Nov 11 13:48:54 2022]Received message from dvir : as 
+[Fri Nov 11 13:48:54 2022]Received message from dvir : d 
+[Fri Nov 11 13:48:54 2022]Received message from dvir : as 
+[Fri Nov 11 13:48:54 2022]Received message from dvir : d 
+[Fri Nov 11 13:48:55 2022]Received message from dvir : d 
+[Fri Nov 11 13:48:55 2022]Received message from dvir : dd 
+[Fri Nov 11 13:48:55 2022]Received message from dvir :  
+[Fri Nov 11 13:48:55 2022]Received message from dvir : dd 
+[Fri Nov 11 13:48:56 2022]Received message from dvir : d 
+[Fri Nov 11 13:48:56 2022]Received message from dvir : d 
+[Fri Nov 11 13:48:56 2022]Received message from dvir :  
+[Fri Nov 11 13:48:56 2022]Received message from dvir : d 
+[Fri Nov 11 13:48:56 2022]Received message from dvir : sa 
+[Fri Nov 11 13:48:56 2022]Received message from dvir : d 
+[Fri Nov 11 13:48:57 2022]Received message from dvir : sa 
+[Fri Nov 11 13:48:57 2022]Received message from dvir : d 
+[Fri Nov 11 13:48:57 2022]Received message from dvir : as 
+[Fri Nov 11 13:48:57 2022]Received message from dvir : d 
+[Fri Nov 11 13:48:57 2022]Received message from dvir : sa 
+[Fri Nov 11 13:48:57 2022]Received message from dvir : d 
+[Fri Nov 11 13:48:59 2022]Received message from dvir :  
+[Fri Nov 11 13:48:59 2022]Received message from dvir :  
+[Fri Nov 11 13:48:59 2022]Received message from dvir :  
+[Fri Nov 11 13:49:01 2022]Received message from dana : asdsaasdas 
+[Fri Nov 11 13:49:01 2022]Received message from dana : das 
+[Fri Nov 11 13:49:01 2022]Received message from dana : d 
+[Fri Nov 11 13:49:01 2022]Received message from dana :  
+[Fri Nov 11 13:49:02 2022]Received message from dana : as 
+[Fri Nov 11 13:49:02 2022]Received message from dana : d 
+[Fri Nov 11 13:49:02 2022]Received message from dana : as 
+[Fri Nov 11 13:49:02 2022]Received message from dana : d 
+[Fri Nov 11 13:49:02 2022]Received message from dana :  
+[Fri Nov 11 13:49:02 2022]Received message from dana : as 
+[Fri Nov 11 13:49:04 2022]Received message from dani : asdsdasdasd 
+[Fri Nov 11 13:49:04 2022]Received message from dani : sa 
+[Fri Nov 11 13:49:04 2022]Received message from dani : d 
+[Fri Nov 11 13:49:04 2022]Received message from dani : as 
+[Fri Nov 11 13:49:04 2022]Received message from dani : d 
+[Fri Nov 11 13:49:04 2022]Received message from dani :  
+[Fri Nov 11 13:49:05 2022]Received message from dani : sa 
+[Fri Nov 11 13:49:05 2022]Received message from dani : d 
+[Fri Nov 11 13:49:05 2022]Received message from dani : as 
+[Fri Nov 11 13:49:05 2022]Received message from dani : d 
+[Fri Nov 11 13:49:05 2022]Received message from dani :  
+[Fri Nov 11 13:49:06 2022]Received message from dani : as 
+[Tue Nov 15 19:11:41 2022]Accepted new connection from: 127.0.0.1:38984 username: dvir 
+[Tue Nov 15 19:11:44 2022]Received message from dvir : suuup 
+[Tue Nov 15 19:11:48 2022]Closed connection from: dvir 
+[Thu Nov 17 22:51:17 2022]Accepted new connection from: 127.0.0.1:41362 username: dvir 
+[Thu Nov 17 22:51:21 2022]Received message from dvir : hello 
+[Thu Nov 17 22:51:37 2022]Accepted new connection from: 127.0.0.1:34664 username: shoval 
+[Thu Nov 17 22:51:39 2022]Received message from shoval : hello 
+[Thu Nov 17 22:51:50 2022]Received message from dvir : hi 
+[Thu Nov 17 22:51:57 2022]Received message from dvir : bdaksvdas 
+[Thu Nov 17 22:51:57 2022]Received message from dvir : das 
+[Thu Nov 17 22:51:57 2022]Received message from dvir : d 
+[Thu Nov 17 22:51:57 2022]Received message from dvir : sa 
+[Thu Nov 17 22:51:57 2022]Received message from dvir : d 
+[Thu Nov 17 22:51:58 2022]Received message from dvir :  
+[Thu Nov 17 22:51:58 2022]Received message from dvir :  
+[Thu Nov 17 22:51:58 2022]Received message from dvir :  
+[Thu Nov 17 22:51:58 2022]Received message from dvir :  
+[Thu Nov 17 22:51:58 2022]Received message from dvir :  
+[Thu Nov 17 22:51:58 2022]Received message from dvir :  
+[Thu Nov 17 22:51:58 2022]Received message from dvir :  
+[Thu Nov 17 22:51:58 2022]Received message from dvir :  
+[Thu Nov 17 22:51:58 2022]Received message from dvir :  
+[Thu Nov 17 22:51:58 2022]Received message from dvir :  
+[Thu Nov 17 22:51:58 2022]Received message from dvir :  
+[Thu Nov 17 22:51:58 2022]Received message from dvir :  
+[Thu Nov 17 22:51:58 2022]Received message from dvir :  
+[Thu Nov 17 22:51:58 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:51:59 2022]Received message from dvir :  
+[Thu Nov 17 22:52:00 2022]Received message from dvir :  
+[Thu Nov 17 22:52:00 2022]Received message from dvir :  
+[Thu Nov 17 22:52:00 2022]Received message from dvir :  
+[Thu Nov 17 22:52:00 2022]Received message from dvir :  
+[Thu Nov 17 22:52:00 2022]Received message from dvir : dsad 
+[Thu Nov 17 22:52:00 2022]Received message from dvir : asd 
+[Thu Nov 17 22:52:00 2022]Received message from dvir : a 
+[Thu Nov 17 22:52:00 2022]Received message from dvir : sd 
+[Thu Nov 17 22:52:01 2022]Received message from dvir : as 
+[Thu Nov 17 22:52:01 2022]Received message from dvir : d 
+[Thu Nov 17 22:52:01 2022]Received message from dvir : as 
+[Thu Nov 17 22:52:01 2022]Received message from dvir : d 
+[Thu Nov 17 22:52:01 2022]Received message from dvir : as 
+[Thu Nov 17 22:52:02 2022]Received message from dvir : dasd 
+[Thu Nov 17 22:52:02 2022]Received message from dvir :  
+[Thu Nov 17 22:52:02 2022]Received message from dvir : asd 
+[Thu Nov 17 22:52:02 2022]Received message from dvir : sa 
+[Thu Nov 17 22:52:02 2022]Received message from dvir : d 
+[Thu Nov 17 22:52:02 2022]Received message from dvir : as 
+[Thu Nov 17 22:52:03 2022]Received message from dvir : d 
+[Thu Nov 17 22:52:03 2022]Received message from dvir : as 
+[Thu Nov 17 22:52:03 2022]Received message from dvir : das 
+[Thu Nov 17 22:52:03 2022]Received message from dvir : d 
+[Thu Nov 17 22:52:03 2022]Received message from dvir :  
+[Thu Nov 17 22:52:03 2022]Received message from dvir : asd 
+[Thu Nov 17 22:52:03 2022]Received message from dvir :  
+[Thu Nov 17 22:52:04 2022]Received message from dvir : asd 
+[Thu Nov 17 22:52:04 2022]Received message from dvir : sa 
+[Thu Nov 17 22:52:04 2022]Received message from dvir : d 
+[Thu Nov 17 22:52:04 2022]Received message from dvir : asd 
+[Thu Nov 17 22:52:05 2022]Received message from dvir : as 
+[Thu Nov 17 22:52:05 2022]Received message from dvir : d 
+[Thu Nov 17 22:52:05 2022]Received message from dvir : as 
+[Thu Nov 17 22:52:05 2022]Received message from dvir : d 
+[Thu Nov 17 22:52:05 2022]Received message from dvir : asd 
+[Thu Nov 17 22:52:05 2022]Received message from dvir : as 
+[Thu Nov 17 22:52:06 2022]Received message from dvir : d 
+[Thu Nov 17 22:52:06 2022]Received message from dvir : sa 
+[Thu Nov 17 22:52:06 2022]Received message from dvir : d 
+[Thu Nov 17 22:52:06 2022]Received message from dvir : as 
+[Thu Nov 17 22:52:06 2022]Received message from dvir : d 
+[Thu Nov 17 22:52:06 2022]Received message from dvir : sa 
+[Thu Nov 17 22:52:06 2022]Received message from dvir : d 
+[Thu Nov 17 22:52:07 2022]Received message from dvir : sa 
+[Thu Nov 17 22:52:07 2022]Received message from dvir : d 
+[Thu Nov 17 22:52:07 2022]Received message from dvir : as 
+[Thu Nov 17 22:52:07 2022]Received message from dvir : d 
+[Thu Nov 17 22:52:07 2022]Received message from dvir : sa 
+[Thu Nov 17 22:52:18 2022]Received message from shoval : dasdas 
+[Thu Nov 17 22:52:18 2022]Received message from shoval : dasdas 
+[Thu Nov 17 22:52:19 2022]Closed connection from: dvir 
+[Thu Nov 17 22:52:35 2022]Received message from shoval : ddasdsa 
+[Thu Nov 17 22:52:43 2022]Closed connection from: shoval 
+[Thu Dec  8 16:53:22 2022]Accepted new connection from: 127.0.0.1:41376 username: dana 
+[Thu Dec  8 16:53:23 2022]Accepted new connection from: 127.0.0.1:41402 username: dvir 
+[Thu Dec  8 16:53:24 2022]Accepted new connection from: 127.0.0.1:41426 username: dani 
+[Thu Dec  8 16:53:31 2022]Received message from dana : dasdsad 
+[Thu Dec  8 16:53:32 2022]Received message from dvir : asdasdsad 
+[Thu Dec  8 16:53:33 2022]Received message from dani : dsadasd 
+[Thu Dec  8 16:53:34 2022]Received message from dani : adsdsad 
+[Thu Dec  8 16:53:35 2022]Received message from dani : asdasd 
+[Thu Dec  8 16:53:35 2022]Received message from dani : asd 
+[Thu Dec  8 16:53:36 2022]Received message from dani : asd 
+[Thu Dec  8 16:53:36 2022]Received message from dani : as 
+[Thu Dec  8 16:53:36 2022]Received message from dani : d 
+[Thu Dec  8 16:53:41 2022]Received message from dani : no way  
+[Thu Dec  8 16:53:43 2022]Received message from dani : shut up 
+[Thu Dec  8 16:53:49 2022]Received message from dvir : you shut up 
+[Thu Dec  8 16:53:56 2022]Received message from dana : alll of you shut up 
+[Thu Dec  8 16:54:03 2022]Closed connection from: dani 
+[Thu Dec  8 16:54:04 2022]Closed connection from: dana 
+[Thu Dec  8 16:54:05 2022]Closed connection from: dvir 
+[Mon Jan  9 16:52:40 2023]Accepted new connection from: 127.0.0.1:59436 username: dvir 
+[Mon Jan  9 16:52:43 2023]Received message from dvir : sup 
+[Mon Jan  9 16:52:49 2023]Accepted new connection from: 127.0.0.1:33864 username: dany 
+[Mon Jan  9 16:52:52 2023]Received message from dany : sup 
+[Mon Jan  9 16:52:59 2023]Received message from dvir : how are you today? 
+[Mon Jan  9 16:53:06 2023]Received message from dany : im fine how are you ? 
