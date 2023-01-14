@@ -6,8 +6,12 @@ import time
 import sys
 # time.ctime()
 
+hostname=socket.gethostname()
+IPAddr=socket.gethostbyname(hostname)
+
+
 HEADER_LENGTH = 10
-IP = "127.0.0.1"
+IP = IPAddr
 PORT = int(sys.argv[1])
 d = 1
 flag = 0

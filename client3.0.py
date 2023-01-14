@@ -20,7 +20,7 @@ def start_EZ(event):
     global username, IP, PORT
     IP = f1_text.get()
     username = f2_text.get()
-    PORT = f3_text.get()
+    PORT = int(f3_text.get())
     first_window.destroy()
 
 
