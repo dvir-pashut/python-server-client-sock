@@ -230,3 +230,68 @@
 [Mon Jan  9 16:52:52 2023]Received message from dany : sup 
 [Mon Jan  9 16:52:59 2023]Received message from dvir : how are you today? 
 [Mon Jan  9 16:53:06 2023]Received message from dany : im fine how are you ? 
+[Sat Jan 14 18:41:26 2023]Accepted new connection from: 127.0.0.1:51200 username: dvir 
+[Sat Jan 14 18:41:29 2023]Received message from dvir : sup 
+[Sat Jan 14 18:41:31 2023]Received message from dvir : hi 
+[Sat Jan 14 18:41:34 2023]Received message from dvir : helloooooo 
+[Sat Jan 14 18:41:43 2023]Received message from dvir : what is hupenning? 
+[Sat Jan 14 18:42:20 2023]Accepted new connection from: 127.0.0.1:55892 username: username 
+[Sat Jan 14 18:42:25 2023]Received message from username : asdasdsad 
+[Sat Jan 14 18:44:52 2023]Accepted new connection from: 127.0.0.1:38762 username: username 
+[Sat Jan 14 18:44:53 2023]Received message from username : asdasd 
+[Sat Jan 14 18:46:12 2023]Accepted new connection from: 127.0.0.1:37220 username: username 
+[Sat Jan 14 18:46:14 2023]Received message from username : ADSDASD 
+[Sat Jan 14 18:47:08 2023]Accepted new connection from: 127.0.0.1:48250 username: username 
+[Sat Jan 14 18:49:01 2023]Accepted new connection from: 127.0.0.1:57062 username: dvir 
+[Sat Jan 14 18:49:03 2023]Received message from dvir : asdsadsa 
+[Sat Jan 14 18:49:03 2023]Received message from dvir : asd 
+[Sat Jan 14 18:49:03 2023]Received message from dvir : dsa 
+[Sat Jan 14 18:49:04 2023]Received message from dvir : sad 
+[Sat Jan 14 18:49:04 2023]Received message from dvir : as 
+[Sat Jan 14 18:49:04 2023]Received message from dvir : dsa 
+[Sat Jan 14 18:49:14 2023]Accepted new connection from: 127.0.0.1:42112 username: oded 
+[Sat Jan 14 18:49:17 2023]Received message from oded : asdadsads 
+[Sat Jan 14 18:49:17 2023]Received message from oded : asd 
+[Sat Jan 14 18:49:17 2023]Received message from oded : asd 
+[Sat Jan 14 18:49:17 2023]Received message from oded : as 
+[Sat Jan 14 18:49:17 2023]Received message from oded : d 
+[Sat Jan 14 18:49:19 2023]Received message from dvir : sad 
+[Sat Jan 14 18:49:21 2023]Received message from oded :  
+[Sat Jan 14 18:49:21 2023]Received message from oded :  
+[Sat Jan 14 18:49:21 2023]Received message from oded : asd 
+[Sat Jan 14 18:49:21 2023]Received message from oded : as 
+[Sat Jan 14 18:49:21 2023]Received message from oded : d 
+[Sat Jan 14 18:49:21 2023]Received message from oded : asd 
+[Sat Jan 14 18:49:22 2023]Received message from oded : as 
+[Sat Jan 14 18:49:22 2023]Received message from oded : d 
+[Sat Jan 14 18:49:22 2023]Received message from oded : asd 
+[Sat Jan 14 18:49:22 2023]Received message from oded : as 
+[Sat Jan 14 18:49:24 2023]Received message from dvir : asdasdsad 
+[Sat Jan 14 18:49:25 2023]Received message from oded : d 
+[Sat Jan 14 18:50:57 2023]Accepted new connection from: 127.0.0.1:43980 username: username 
+[Sat Jan 14 18:50:59 2023]Received message from username : adsasdsad 
+[Sat Jan 14 18:51:05 2023]Received message from username : ads 
+[Sat Jan 14 18:51:07 2023]Closed connection from: username 
+[Sat Jan 14 18:51:31 2023]Accepted new connection from: 127.0.0.1:33018 username: username 
+[Sat Jan 14 18:51:33 2023]Received message from username : asdsad 
+[Sat Jan 14 18:51:35 2023]Received message from username : dvir 
+[Sat Jan 14 18:51:39 2023]Closed connection from: username 
+[Sat Jan 14 18:52:09 2023]Accepted new connection from: 127.0.0.1:51194 username: username 
+[Sat Jan 14 18:52:10 2023]Received message from username : asdasd 
+[Sat Jan 14 18:52:17 2023]Closed connection from: username 
+[Sat Jan 14 18:52:32 2023]Accepted new connection from: 127.0.0.1:58734 username: username 
+[Sat Jan 14 18:52:34 2023]Received message from username : asdasd 
+[Sat Jan 14 18:52:39 2023]Closed connection from: username 
+[Sat Jan 14 18:52:53 2023]Accepted new connection from: 127.0.0.1:35940 username: username 
+[Sat Jan 14 18:52:54 2023]Received message from username : asdasd 
+[Sat Jan 14 18:55:44 2023]Accepted new connection from: 127.0.0.1:43706 username: username 
+[Sat Jan 14 18:55:46 2023]Received message from username : asdsad 
+[Sat Jan 14 18:55:47 2023]Received message from username : dsadasd 
+[Sat Jan 14 18:55:47 2023]Received message from username : asd 
+[Sat Jan 14 18:55:48 2023]Received message from username : asd 
+[Sat Jan 14 18:55:48 2023]Received message from username : sa 
+[Sat Jan 14 18:55:48 2023]Received message from username : d 
+[Sat Jan 14 18:55:48 2023]Received message from username : asd 
+[Sat Jan 14 18:55:48 2023]Received message from username : as 
+[Sat Jan 14 18:55:48 2023]Received message from username : d 
+[Sat Jan 14 18:55:56 2023]Closed connection from: username 

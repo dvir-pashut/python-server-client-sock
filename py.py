@@ -1,13 +1,14 @@
+#!/usr/bin/env python3
 import socket
 import select
 import os
 import time
-
+import sys
 # time.ctime()
 
 HEADER_LENGTH = 10
 IP = "127.0.0.1"
-PORT = 1233
+PORT = int(sys.argv[1])
 d = 1
 flag = 0
 first_connection_flag = 0

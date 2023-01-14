@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import tkinter as tk
 from tkinter import *
 import threading
@@ -27,7 +28,7 @@ def start_EZ2():
     global username, IP, PORT
     IP = f1_text.get()
     username = f2_text.get()
-    PORT = f3_text.get()
+    PORT = int(f3_text.get())
     first_window.destroy()
 
 
@@ -63,8 +64,8 @@ window.configure(bg="lightgreen")
 
 def incom_message(usr, msg):
     my_text.configure(state=NORMAL)
-    my_text.insert(END, usr + "( " + time.ctime() + ')' + " :" + msg + "\n")
-    str2 = usr + "( " + time.ctime() + ')' + " :" + msg + "\n"
+    my_text.insert(END, usr + "(" + time.ctime() + ')' + " :" + msg + "\n")
+    str2 = usr + "(" + time.ctime() + ')' + ": " + msg + "\n"
     os.system("echo" +  str2)
     my_text.configure(state=DISABLED)
     my_text.yview(END)
@@ -139,7 +140,6 @@ def users_list(str1):
 def lisener():
     global IP, message
     HEADER_LENGTH = 10
-    PORT = 1233
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     client_socket.connect((IP, PORT))
     client_socket.setblocking(False)
@@ -183,7 +183,7 @@ def lisener():
 
 
 HEADER_LENGTH = 10
-PORT = 1233
+PORT = int(PORT)
 my_username = username
 check = my_username
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
