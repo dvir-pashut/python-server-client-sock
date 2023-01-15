@@ -4,7 +4,7 @@ import select
 import os
 import time
 import sys
-# time.ctime()
+
 
 hostname=socket.gethostname()
 IPAddr=socket.gethostbyname(hostname)
